@@ -1,0 +1,53 @@
+body{
+	background-color:rgb(153,153,255);
+	
+}
+
+.Jumbotron .container{
+	text-align: center;
+	
+}
+.Jumbotron .container h1{
+		font-size: 200px;
+	}
+.Jumbotron .container p{
+		font-size: 30px;
+	}
+.Learn-more .container{
+	text-align: center;
+}
+.Learn-more .container h3{
+	font-size: 25px;
+}
+
+.nav .container h1{
+	text-align: left;
+	font-size: 50px;
+}
+.nav .container {
+	text-align:center;
+}
+.nav .container p{
+	text-align: center;
+	font-size: 30px;
+}
+.nav .container li{
+	font-size: 25px;
+}
+.school .container h1{
+	text-align: left;
+	font-size: 50px;
+}
+.school .container li{
+	text-align: center;
+	font-size: 30px;
+}
+.school .container p{
+	text-align: center;
+	font-size: 25px;
+}
+.nav .container h3{
+	font-size: 40px;
+	text-align: center:
+	
+}
